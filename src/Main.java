@@ -1,3 +1,6 @@
+// https://app.patika.dev/
+// https://app.patika.dev/thendbranch
+
 import java.util.Scanner;
 
 public class Main {
@@ -26,8 +29,6 @@ public class Main {
                 System.out.println("5'in kuvveti : " + j);
             }
         }
-
-
 
     }
 }
